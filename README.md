@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/2770cb93e25ba3e15252be2731557b4365b1224da5fce00750570fc5b22d9441/68747470733a2f2f7777772e61726b61736f667477617265732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30312f6865616465725f62616e6e65722d322e6a7067)](https://shikharchaudhary-dev.io)
+[![MasterHead](https://camo.githubusercontent.com/2770cb93e25ba3e15252be2731557b4365b1224da5fce00750570fc5b22d9441/68747470733a2f2f7777772e61726b61736f667477617265732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30312f6865616465725f62616e6e65722d322e6a7067)](https://cb-shikharchaudhary.io)
 
 <h1 align="center">Hi, I'm Shikhar</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
@@ -6,8 +6,8 @@
     src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=shikharchaudhary-dev&label=Profile%20views&color=0e75b6&style=flat"
-        alt="shikharchaudhary-dev" /> </p>
+        src="https://komarev.com/ghpvc/?username=cb-shikharchaudhary&label=Profile%20views&color=0e75b6&style=flat"
+        alt="cb-shikharchaudhary" /> </p>
 
 - 🔭 I’m currently working on **Building Scalable Systems**
 
@@ -117,12 +117,12 @@
 
 
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=shikharchaudhary-dev&show_icons=true&locale=en&layout=compact"
-        alt="shikharchaudhary-dev" /></p>
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=cb-shikharchaudhary&show_icons=true&locale=en&layout=compact"
+        alt="cb-shikharchaudhary" /></p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=shikharchaudhary-dev&show_icons=true&locale=en"
-        alt="shikharchaudhary-dev" /></p>
+        src="https://github-readme-stats.vercel.app/api?username=cb-shikharchaudhary&show_icons=true&locale=en"
+        alt="cb-shikharchaudhary" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shikharchaudhary-dev&"
-        alt="shikharchaudhary-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cb-shikharchaudhary&"
+        alt="cb-shikharchaudhary" /></p>
