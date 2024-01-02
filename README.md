@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/in/shikharchaudhary2311" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/shikharchaudhary2311/" target="_blank" rel="noreferrer"> <img
             src="https://cdn-icons-png.flaticon.com/256/174/174857.png"
-            alt="in/shikharchaudhary2311" height="30" width="40" /></a>
+            alt="linkedIn" width="40" height="40" />
 </p>
 
 
