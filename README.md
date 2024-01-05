@@ -4,10 +4,6 @@
 <img align="right" alt="Coding" width="400"
     src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
 
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=cb-shikharchaudhary&label=Profile%20views&color=0e75b6&style=flat"
-        alt="cb-shikharchaudhary" /> </p>
-
 - 🔭 I’m currently working on **Building Scalable Systems For CHARGEBEE**
 
 - 🌱 I’m currently learning **Full Stack Development**
